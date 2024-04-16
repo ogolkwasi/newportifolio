@@ -53,7 +53,7 @@ function App() {
       <div className="hr"></div>
 
       <section id="projects">
-        <Heading firstWord="My" secondWord="Projects" />
+        <Heading firstWord="Work" secondWord="&Experience" />
         <motion.div
           className="project-map"
           ref={ref}
@@ -103,7 +103,7 @@ function App() {
             />
           ))}
         </div>
-        <a className="cyber-scourge" href="https://blog.randiltharusha.me">
+        <a className="cyber-scourge" href="https://www.linkedin.com/feed/update/urn:li:activity:6960155507999338496/">
           View More Posts
         </a>
       </section>

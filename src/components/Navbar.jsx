@@ -23,17 +23,17 @@ const Navbar = (props) => {
           </li>
 
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#projects">Work & Experience</a>
           </li>
           <li>
-            <a href="#skills">Skills</a>
+            <a href="#skills">Tech Stack</a>
           </li>
           <li>
-            <a href="#blog">Blog</a>
+            <a href="#blog">Writeups</a>
           </li>
           <li>
             <a href="#contact" className="navbar-btn">
-              Contact Me
+              Let's chat
             </a>
           </li>
         </ul>

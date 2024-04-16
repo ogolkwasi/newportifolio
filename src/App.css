@@ -53,8 +53,8 @@ body {
   position: sticky;
   top: 0;
   width: 100%;
-  background: rgba(33, 37, 41, 0.8);
-  box-shadow: 0 8px 32px 0 rgba(135, 47, 31, 0.37);
+  background: rgba(33, 37, 41, 0.196);
+  box-shadow: 0 8px 32px 0 rgba(233, 96, 72, 0.361);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   border: 1px 0 solid rgba(255, 255, 255, 0.18);
@@ -103,7 +103,7 @@ nav {
 
 .menu a:hover {
   opacity: 1;
-  color: #9f9f9f;
+  color: #d00000;
 }
 
 .menu-icon {
@@ -246,8 +246,8 @@ footer {
   height: 550px;
   margin: 20px 50px;
   padding: 18px;
-  background: rgba(5, 0, 0, 0.3);
-  box-shadow: 0 8px 32px 0 rgba(135, 47, 31, 0.37);
+  background: linear-gradient(to bottom , rgba(243, 9, 9, 0.433), black);
+  box-shadow: 0 8px 32px 0 rgba(143, 75, 63, 0.37);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   border: 1px 0 solid rgba(255, 255, 255, 0.18);
@@ -384,7 +384,7 @@ form > textarea {
   margin: 12px 0;
   border: none;
   color: #ddd;
-  background-color: #222;
+  background-color: #200202;
   border-radius: 4px;
   display: block;
   width: 100%;

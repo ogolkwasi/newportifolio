@@ -10,7 +10,7 @@ const ContactForm = () => {
         <h1>Let&apos;s talk about everything!</h1>
         <p>
           Don&apos;t like forms? Send me an{" "}
-          <a href="mailto:randiltharusha72@gmail.com">email</a>. 👋
+          <a href="kwasi@web3savannah.io">email</a>. 👋
           <br />
           <br />
           <h3>Or find me on:</h3>
@@ -25,17 +25,17 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            randiltharusha72@gmail.com
+            kwasi@web3savannah.io
           </p>
           <br />
           <p className="contact-links">
             <FaPhoneAlt />
-            +94 78 134 7983
+            +254 798517699
           </p>
           <br />
           <p className="contact-links">
             <IoLocation />
-            Sri Lanka
+            Digital Nomad
           </p>
           <br />
         </div>
